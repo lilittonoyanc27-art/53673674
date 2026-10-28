@@ -1,0 +1,7 @@
+{
+  "name": "Lengua Castellana 1.º ESO — Gran Examen Interactivo",
+  "description": "Entrenador interactivo para el examen de Lengua Castellana y Literatura 1.º ESO con 200 preguntas, traducción al armenio y análisis detallado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
